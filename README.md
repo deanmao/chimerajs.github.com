@@ -1,4 +1,2 @@
-chimerajs.github.com
-====================
+nothing here for now...
 
-Webpage for node-chimera
